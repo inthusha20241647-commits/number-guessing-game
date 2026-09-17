@@ -16,7 +16,7 @@ A simple JavaScript project that generates a random background color whenever th
 
 ## 🚀 Live Demo
 
-# 🔗 **[View Live Demo](https://inthusha20241647-commits.github.io/random-background-color/)**
+# 🔗 **[View Live Demo](https://inthusha20241647-commits.github.io/number-guessing-game/)**
 
 # number-guessing-game
 
