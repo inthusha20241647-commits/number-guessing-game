@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var inputbox = document.querySelector(".inputbox");
 var btn = document.querySelector("#btn");
 var result = document.querySelector("#result");
@@ -24,3 +25,14 @@ btn.addEventListener("click", function () {
          guessed numbers ${guessedNumbers}`;
   }
 });
+=======
+function changeColor(){
+    document.body.style.backgroundColor=
+    `rgb(${Math.round(Math.random()*255)},
+    ${Math.round(Math.random()*255)},
+    ${Math.round(Math.random()*255)})
+    `
+    
+
+}
+>>>>>>> da8dc5551a41a73a992ba350e505637ff254eccb
