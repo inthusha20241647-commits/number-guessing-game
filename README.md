@@ -1,24 +1,23 @@
-<<<<<<< HEAD
 # 🎨 Random Background Color Generator
 
 A simple JavaScript project that generates a random background color whenever the **Click Me!** button is pressed.
 
 ## ✨ Features
 
-* 🎲 Generates a random RGB color
-* 🖱️ Changes the background with one click
-* 🌈 Uses JavaScript `Math.random()`
+- 🎲 Generates a random RGB color
+- 🖱️ Changes the background with one click
+- 🌈 Uses JavaScript `Math.random()`
 
 ## 🛠️ Technologies
 
-* HTML
-* CSS
-* JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](https://inthusha20241647-commits.github.io/random-background-color/)**
-=======
+# 🔗 **[View Live Demo](https://inthusha20241647-commits.github.io/random-background-color/)**
+
 # number-guessing-game
+
 A simple and interactive Number Guessing Game built with HTML, CSS, and JavaScript
->>>>>>> 1def28778c13ec111a4ffca2faa7b8ef23fba342
