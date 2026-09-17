@@ -16,4 +16,4 @@ A simple JavaScript project that generates a random background color whenever th
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](YOUR-LIVE-LINK-HERE)**
+🔗 **[View Live Demo](https://inthusha20241647-commits.github.io/random-background-color/)**
