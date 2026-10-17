@@ -1,12 +1,6 @@
-# 🎨 Random Background Color Generator
+# number-guessing-game
 
-A simple JavaScript project that generates a random background color whenever the **Click Me!** button is pressed.
-
-## ✨ Features
-
-- 🎲 Generates a random RGB color
-- 🖱️ Changes the background with one click
-- 🌈 Uses JavaScript `Math.random()`
+A simple and interactive Number Guessing Game built with HTML, CSS, and JavaScript
 
 ## 🛠️ Technologies
 
@@ -18,6 +12,4 @@ A simple JavaScript project that generates a random background color whenever th
 
 # 🔗 **[View Live Demo](https://inthusha20241647-commits.github.io/number-guessing-game/)**
 
-# number-guessing-game
 
-A simple and interactive Number Guessing Game built with HTML, CSS, and JavaScript
