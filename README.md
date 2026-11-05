@@ -41,10 +41,6 @@ A simple interactive Number Guessing Game built using HTML, CSS, and JavaScript.
 ```text
 number-guessing-game/
 │
-├── images/
-│   ├── desktop.png
-│   └── mobile.png
-│
 ├── index.html
 ├── style.css
 ├── script.js
