@@ -6,19 +6,6 @@ A simple interactive Number Guessing Game built using HTML, CSS, and JavaScript.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=github)](https://inthusha20241647-commits.github.io/number-guessing-game/)
 
-## 📸 Screenshots
-
-### 🖥️ Desktop View
-
-<p align="center">
-  <img src="./images/desktop.png" alt="Number Guessing Game Desktop View" width="850">
-</p>
-
-### 📱 Mobile View
-
-<p align="center">
-  <img src="./images/mobile.png" alt="Number Guessing Game Mobile View" width="350">
-</p>
 
 ## ✨ Features
 
